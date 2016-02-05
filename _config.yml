@@ -1,7 +1,7 @@
 name: Sonic Phantoms
 favicon: null
 layout_spectrum: 0.8856531956698745
-typography_spectrum: 0.6558379181660712
+typography_spectrum: 0.45851
 title: 'sonic phantoms '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.09611616795882583
-  lightness: 0.4943115212954581
+  brandStrength: 0.375
+  lightness: 0.125
   saturation: 0.5255073439329863
   rhythmicContrast: 0.5524870054796338
 purpose: []
