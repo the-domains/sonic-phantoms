@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sonic Phantoms]]></title>
         <description><![CDATA[Sonic Phantoms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sonic-phantoms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 20:40:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 20:41:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sonic-phantoms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Grid Post no#2 Beta test: </p>]]></description>
+            <link>https://thegrid.ai/sonic-phantoms/7885c1a7-1e4c-44e9-8a6b-43dba51c9c03/index.html</link>
+            <guid isPermaLink="false">7885c1a7-1e4c-44e9-8a6b-43dba51c9c03</guid>
+            <pubDate>Fri, 05 Feb 2016 20:40:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc255c70-ad06-4498-80c7-6566b6d5cce1.jpg">]]></description>
-            <link>undefinedacabf0df-3d9c-462d-ba4d-57decff8fc8f/index.html</link>
+            <link>https://thegrid.ai/sonic-phantoms/acabf0df-3d9c-462d-ba4d-57decff8fc8f/index.html</link>
             <guid isPermaLink="false">acabf0df-3d9c-462d-ba4d-57decff8fc8f</guid>
             <pubDate>Fri, 05 Feb 2016 20:40:03 GMT</pubDate>
         </item>
