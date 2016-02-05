@@ -2,6 +2,7 @@ name: Sonic Phantoms
 favicon: null
 layout_spectrum: 0.8856531956698745
 typography_spectrum: 0.6558379181660712
+title: 'sonic phantoms '
 cta:
   domain: null
   bucket: null
